@@ -211,7 +211,7 @@ Location:  West Bengal, India 🇮🇳
   <img src="https://github-readme-stats.vercel.app/api?username=shantamc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantamc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7" height="150" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantamc&theme=tokyonight&hide_border=true&background=0d1117&stroke=A855F7&ring=A855F7&fire=A855F7" alt="Streak Stats" />
+ 
 </div>
 
 <br/>
